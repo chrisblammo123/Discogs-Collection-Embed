@@ -4,7 +4,7 @@
   "description": "Converts a discogs collection to valid html to be embeded in a website.",
   "main": "app.js",
   "scripts": {
-    "test": "test.js"
+    "test": "node test.js"
   },
   "repository": {
     "type": "git",
